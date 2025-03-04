@@ -39,7 +39,7 @@ import asyncio
 @Client.on_message(
     filters.command(["MAA","abuse"], ".","T3RI") & (filters.me | filters.user(SUDO_USERS))
 )
-async def abuse(x: Client, e: Message):
+async def MAA(x: Client, e: Message):
     NOBI = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
 
     if len(NOBI) == 2:
