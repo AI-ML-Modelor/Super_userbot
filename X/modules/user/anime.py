@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -20,10 +20,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-#CREDIT : GURU BOT THANKS FOR YOUR ANIME API 
 
-#REMAKE BY : NOBITA XD AND TRYTOLIVEALONE
-# Copyright (C) 2024 JAPANESE X USERBOT
 #DON'T KANG FUCKING COWARD
 #BSDKE KANG KIYA TOH SOCH LIYO
 #AAG LAGA DUNGA TERE ANDAR 
