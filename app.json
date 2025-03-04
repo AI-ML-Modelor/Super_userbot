@@ -1,7 +1,7 @@
 {
-  "name": "Shubh-X-Userbot",
-  "description": "[Japanese-X-Userbot] ᴡᴏʀʟᴅ'ꜱ ʟᴀʀɢᴇꜱᴛ ᴀɴᴅ ꜰᴀꜱᴛᴇꜱᴛ ᴜꜱᴇʀʙᴏᴛ. ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴀᴘᴀɴᴇꜱᴇ-x-ᴜꜱᴇʀʙᴏᴛ.",
-  "logo": "https://graph.org/file/ec99cb6dba229bd984537.jpg",
+  "name": "Super_userbot",
+  "description": "[Super_userbot] ᴡᴏʀʟᴅ'ꜱ ʟᴀʀɢᴇꜱᴛ ᴀɴᴅ ꜰᴀꜱᴛᴇꜱᴛ ᴜꜱᴇʀʙᴏᴛ. ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜᴘᴇʀ_ᴜsᴇʀʙᴏᴛ.",
+  "logo": "https://graph.org/file/119d5fac10c2ac919ca87-8c3a86927f5ce2f63a.jpg",
   "stack": "heroku-22",
   "env": {
     "BOT_TOKEN": {
@@ -22,7 +22,7 @@
     },
     "DB_URL": {
       "description": "Please Use This Url Here :- sqlite:///./test.db",
-      "required": true
+      "required": false
     },
     "STRING_SESSION1": {
       "description": "ʏᴏᴜʀ ᴘʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ",
