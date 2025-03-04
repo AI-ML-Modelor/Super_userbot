@@ -20,16 +20,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
-#
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
 
-#REMAKE BY NOBITA XD AND TRYTOLIVEALONE 
 
 
 
@@ -77,7 +68,7 @@ async def module_help(client: Client, message: Message):
             print(f"{e}")
             ac = PrettyTable()
             ac.header = False
-            ac.title = "𝐒𝐇𝐔𝐁𝐇-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐏𝐋𝐔𝐆𝐈𝐍𝐒"
+            ac.title = "𝐒𝐔𝐏𝐄𝐑_𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐏𝐋𝐔𝐆𝐈𝐍𝐒"
             ac.align = "l"
             for x in split_list(sorted(CMD_HELP.keys()), 2):
                 ac.add_row([x[0], x[1] if len(x) >= 2 else None])
