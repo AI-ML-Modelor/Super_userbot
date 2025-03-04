@@ -1,6 +1,6 @@
 <p align="center">
     <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Super_userbot/count.svg" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">𝐒𝐮𝐩𝐞𝐫_𝐮𝐬𝐞𝐫𝐛𝐨𝐭</h1>
 
-![20240201_185316](https://github.com/Shubhxspam/Super_userbot/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
+)
 
 
 
