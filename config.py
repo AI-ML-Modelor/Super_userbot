@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 Super_userbot
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -30,8 +30,8 @@ from dotenv import load_dotenv
 load_dotenv("config.env")
 
 ALIVE_EMOJI = getenv("ALIVE_EMOJI", "🥵")
-ALIVE_LOGO = getenv("ALIVE_LOGO", "https://graph.org/file/fafad2a1b5ccf521c2adc.png")
-PM_PIC = getenv("PM_PIC", "https://graph.org/file/fafad2a1b5ccf521c2adc.png")
+ALIVE_LOGO = getenv("ALIVE_LOGO", "https://graph.org/file/119d5fac10c2ac919ca87-8c3a86927f5ce2f63a.jpg")
+PM_PIC = getenv("PM_PIC", "https://graph.org/file/119d5fac10c2ac919ca87-8c3a86927f5ce2f63a.jpg")
 ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 API_HASH = getenv("API_HASH", "a35853e36b82fa1ea0ea3e6109ef8cdd")
 API_ID = getenv("API_ID", "16665944")
@@ -42,15 +42,15 @@ CMD_HNDLR = cmd
 BOT_TOKEN = getenv("BOT_TOKEN", "none")
 OPENAI_API_KEY = getenv("OPENAI_API_KEY", "")
 CHANNEL = getenv("CHANNEL", "Seethistoknow")
-CMD_HANDLER = getenv("CMD_HANDLER", ".")
+CMD_HANDLER = getenv("CMD_HANDLER", "." ,"T3RI")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv("GIT_TOKEN", "")
-GROUP = getenv("GROUP", "Mrpasserby_1227")
+GROUP = getenv("GROUP", "Mrshubh_1227")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
 PM_AUTO_BAN = strtobool(getenv("PM_AUTO_BAN", "True"))
-REPO_URL = getenv("REPO_URL", "https://github.com/Shubhxspam/Japanese-X-Userbot")
+REPO_URL = getenv("REPO_URL", "https://github.com/Shubhxspam/Super_userbot")
 MONGO_URL = getenv("MONGO_URL", "")
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
@@ -62,7 +62,7 @@ STRING_SESSION7 = getenv("STRING_SESSION7", "")
 STRING_SESSION8 = getenv("STRING_SESSION8", "")
 STRING_SESSION9 = getenv("STRING_SESSION9", "")
 STRING_SESSION10 = getenv("STRING_SESSION10", "")
-SUDOS = os.getenv("SUDO_USERS","2047725696")
+SUDOS = os.getenv("SUDO_USERS","7093899037")
 SUDO_USERS = []
 
 if SUDOS:
