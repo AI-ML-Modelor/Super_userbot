@@ -23,19 +23,19 @@
 class First:
     ALIVE = "`𝐒𝐭𝐢𝐥𝐥 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐎𝐧 𝐅𝐢𝐫𝐞 🔥`"
     REPO = """
-**𝐇𝐞𝐲**, __𝐈 𝐚𝐦 𝐮𝐬𝐢𝐧𝐠__ ✨ **𝐒𝐡𝐮𝐛𝐡-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭** ✨
+**𝐇𝐞𝐲**, __𝐈 𝐚𝐦 𝐮𝐬𝐢𝐧𝐠__ ✨ **𝐒𝐔𝐏𝐄𝐑_𝐔𝐒𝐄𝐑𝐁𝐎𝐓** ✨
 
 ✣ **𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 :** `{}`
-✣ **𝐆𝐫𝐨𝐮𝐩 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :** [𝐒𝐡𝐮𝐛𝐡 𝐔𝐬𝐞𝐫𝐛𝐨𝐭](t.me/Mrpasserby_1227
-✣ **𝐂𝐡𝐚𝐧𝐧𝐞𝐥 :** [𝐒𝐡𝐮𝐛𝐡 𝐔𝐬𝐞𝐫𝐛𝐨𝐭](t.me/Seethistoknow)
-✣ **𝐎𝐰𝐧𝐞𝐫  :** [𝐒𝐇𝐔𝐁𝐇](t.me/Mrshubh_1227)
-✣ **𝐑𝐞𝐩𝐨 :** [𝐒𝐡𝐮𝐛𝐡-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭](https://github.com/Shubhxspam/Japanese-X-Userbot)
+✣ **𝐆𝐫𝐨𝐮𝐩 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :** [𝐒𝐔𝐏𝐏𝐎𝐑𝐓](t.me/Mrshubh_1227) 
+✣ **𝐂𝐡𝐚𝐧𝐧𝐞𝐥 :** [𝐂𝐇𝐀𝐍𝐍𝐄𝐋](t.me/Seethistoknow)
+✣ **𝐎𝐰𝐧𝐞𝐫  :** [𝐌я.𝐏αѕѕєяву](t.me/Demonxcoder)
+✣ **𝐑𝐞𝐩𝐨 :** [𝐒𝐔𝐏𝐄𝐑_𝐔𝐒𝐄𝐑𝐁𝐎𝐓](https://github.com/Shubhxspam/Super_userbot)
 
 
-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [𝐒𝐡𝐮𝐛𝐡-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭](https://github.com/Shubhxspame/Japanese-X-Userbot)"""
-    CREATOR = '𝐈 𝐰𝐚𝐬 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 <a href="https://github.com/Shubhxspam/Japanese-X-Userbot">𝐒𝐡𝐮𝐛𝐡 -𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭</a> 𝐨𝐧 𝐚 𝐫𝐚𝐢𝐧𝐲 𝐝𝐚𝐲.'
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 [𝐒𝐡𝐮𝐛𝐡-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭](https://github.com/Shubhxspam/Super_userbot)"""
+    CREATOR = '𝐈 𝐰𝐚𝐬 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐦𝐲 𝐦𝐚𝐬𝐭𝐞𝐫 <a href="https://github.com/Shubhxspam/Super_userbot">𝐒𝐔𝐏𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓</a> 𝐨𝐧 𝐚 𝐫𝐚𝐢𝐧𝐲 𝐝𝐚𝐲.'
     MSG_ON = """
-🐣 **𝐒𝐡𝐮𝐛𝐡-𝐗-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
+🐣 **𝐒𝐔𝐏𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲** 🐣
 ━━
 ➠ **𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 -** `{}`
 ➠ **𝐓𝐲𝐩𝐞** `{}𝐩𝐢𝐧𝐠` **𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐁𝐨𝐭**
