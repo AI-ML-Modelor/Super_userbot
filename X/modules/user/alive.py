@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 
 
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,17 +21,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-# Credits: @mrismanaziz
-# Copyright (C) 2022 Pyro-ManUserbot
-#
-# This file is a part of < https://github.com/mrismanaziz/PyroMan-Userbot/ >
-# PLease read the GNU Affero General Public License in
-# <https://www.github.com/mrismanaziz/PyroMan-Userbot/blob/main/LICENSE/>.
-#
-# t.me/SharingUserbot & t.me/Lunatic0de
 
-
-#REMAKE BY : NOBITA XD AND TRYTOLIVEALONE
 #DON'T KANG FUCKING COWARD
 #BSDKE KANG KIYA TOH SOCH LIYO
 #AAG LAGA DUNGA TERE ANDAR 
@@ -69,7 +59,7 @@ alive_logo = (
     gvarstatus("ALIVE_LOGO") or ""
 )
 emoji = gvarstatus("ALIVE_EMOJI") or "✧"
-alive_text = gvarstatus("ALIVE_TEKS_CUSTOM") or "✧✧ 𝐒𝐇𝐔𝐁𝐇-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 ✧✧"
+alive_text = gvarstatus("ALIVE_TEKS_CUSTOM") or "✧✧ 𝐒𝐔𝐏𝐄𝐑_𝐔𝐒𝐄𝐑𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 ✧✧"
 
 
 @Client.on_message(
@@ -89,9 +79,9 @@ async def alip(client: Client, message: Message):
         f"{emoji} <b>𝐕ᴇʀꜱɪᴏ𝐍:</b> <code>{BOT_VER}</code> \n\n"
         f"{emoji} <b>𝐌ᴏᴅᴜʟᴇ𝐒:</b> <code>{len(modules)} 𝐌ᴏᴅᴜʟᴇ𝐒</code> \n\n"
         f"{emoji} <b>𝐏ʏᴛʜᴏ𝐍 𝐕ᴇʀꜱɪᴏ𝐍:</b> <code>{python_version()}</code> \n\n"
-        f"{emoji} <b>𝐆ʀᴏᴜ𝐏 :</b> [𝐒ᴜᴘᴘᴏʀ𝐓](https://t.me/Mrpasserby_1227)** \n\n"
+        f"{emoji} <b>𝐆ʀᴏᴜ𝐏 :</b> [𝐒ᴜᴘᴘᴏʀ𝐓](https://t.me/Mrshubh_1227)** \n\n"
         f"{emoji} <b>𝐂ʜᴀɴɴᴇʟ:<b> [𝐔ᴘᴅᴀᴛᴇ𝐒](https://t.me/Seethistoknow)** \n\n"
-        f"{emoji} <b>[𝐃ᴇᴘʟᴏʏ](http://dashboard.heroku.com/new?template=https://github.com/Shubhxspam/Japanese-X-Userbot) 𝐘ᴏᴜʀ 𝐎ᴡɴ [𝐒𝐇𝐔𝐁𝐇-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓](http://github.com/Shubhxspam/Japanese-X-Userbot) ✧\n\n"
+        f"{emoji} <b>[𝐃ᴇᴘʟᴏʏ](http://dashboard.heroku.com/new?template=https://github.com/Shubhxspam/Super_userbot) 𝐘ᴏᴜʀ 𝐎ᴡɴ [𝐒𝐔𝐏𝐄𝐑_𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ](http://github.com/Shubhxspam/Super_userbot) ✧\n\n"
         
     )
     try:
