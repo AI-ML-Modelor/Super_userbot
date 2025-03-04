@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 Japanese-X-Userbot
+#Copyright (c) 2024 
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -38,7 +38,7 @@ from .help import *
 import asyncio
 
 @Client.on_message(
-    filters.command(["abuse"], ".") & (filters.me | filters.user(SUDO_USERS))
+    filters.command(["MAA"], ".","T3RI") & (filters.me | filters.user(SUDO_USERS))
 )
 async def abuse(x: Client, e: Message):
     NOBI = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 2)
@@ -65,8 +65,8 @@ async def abuse(x: Client, e: Message):
     else:
         await e.reply_text(".𝐚𝐛𝐮ꜱ𝐞 𝟏𝟎 <𝐫𝐞𝐩𝐥𝐲 𝐭𝐨 𝐮ꜱ𝐞𝐫 𝐨𝐫 𝐮ꜱ𝐞𝐫𝐧𝐚𝐦𝐞>")
 
-# Credits: KUNAL AND NOBITA XD 
-# Copyright (C) 2024 JAPANESE X USERBOT AND STORM USERBOT 
+# Credits: 𝐌я.𝐏αѕѕєяву
+# Copyright (C) 2024 Super_userbot
 #DON'T KANG FUCKING COWARD
 #BSDKE KANG KIYA TOH SOCH LIYO
 #AAG LAGA DUNGA TERE ANDAR 
