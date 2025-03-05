@@ -14,11 +14,11 @@ raid_active = False
 async def start_raid(client, message):
     global raid_active
     if raid_active:
-        await message.reply_text("Raid pehle se hi chal rahi hai.")
+        await message.reply_text("YE RANDI KA PILLA PEHLE HI CHUDD RAHA HAI")
         return
 
     raid_active = True
-    await message.reply_text("Raid shuru ho rahi hai...")
+    await message.reply_text("AB TOH ISKI MAA CHODDOONGA MAI")
 
     while raid_active:
         for word in WORDS:
@@ -31,8 +31,8 @@ async def start_raid(client, message):
 async def stop_raid(client, message):
     global raid_active
     if not raid_active:
-        await message.reply_text("Koi raid chalu nahi hai.")
+        await message.reply_text("RANDI CHUDDRHA HAI CHORR DOO USE")
         return
 
     raid_active = False
-    await message.reply_text("Raid roki gayi hai.")
+    await message.reply_text("MAA CHUDD GYI ISKI TOH😂")
