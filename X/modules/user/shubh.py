@@ -1,5 +1,5 @@
 from pyrogram import Client, idle
-import onewordraid.py # Ensure karo ki yeh sahi path pe ho
+import onewordraid # Ensure karo ki yeh sahi path pe ho
 
 API_ID = 23538223  # Apna API ID daalo
 API_HASH = "6d6a202ff2e1951bb954cdc302bd0bca"
